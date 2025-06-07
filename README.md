@@ -1,1 +1,1 @@
-# Multi-class-classification-of-Chest-X-Ray-Images-
+# Multi-class-classification-of-Chest-X-Ray-Images
